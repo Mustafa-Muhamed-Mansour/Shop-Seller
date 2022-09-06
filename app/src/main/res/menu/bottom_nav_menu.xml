@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+
+    <item
+        android:id="@+id/addNewProductFragment"
+        android:title="إضافة منتج جديد"
+        android:icon="@drawable/ic_new_product"
+        />
+
+    <item
+        android:id="@+id/homeFragment"
+        android:title="الصفحة الرئيسية"
+        android:icon="@drawable/ic_home"
+        />
+
+    <item
+        android:id="@+id/profileFragment"
+        android:title="الصفحة الشخصية"
+        android:icon="@drawable/ic_profile"
+        />
+
+</menu>
